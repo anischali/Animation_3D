@@ -1,9 +1,3 @@
-/*!\file basic.fs
- *
- * \brief rendu avec lumière directionnelle diffuse et couleur.
- * \author Farès BELHADJ, amsi@ai.univ-paris8.fr 
- * \date April 15 2016
- */
 #version 330
 uniform sampler2D texApi8;
 uniform int animation;
